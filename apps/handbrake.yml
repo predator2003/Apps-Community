@@ -15,7 +15,7 @@
       set_fact:
         pgrole: 'handbrake'
         intport: '5800'
-        extport: '5800'
+        extport: '5880'
         image: 'jlesage/handbrake:dev-latest'
 
     # CORE (MANDATORY) ############################################################
